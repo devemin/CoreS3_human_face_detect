@@ -51,7 +51,8 @@ https://github.com/PINTO0309/UHD
 <br>ultra_lightweight_human_detection/components/uhd_detect ディレクトリは他の Espressif esp-dl 公式 examples のモデルと同様に run() で結果が返る形式のコンポーネントになっています。
 <br>なので、画像を指定された形で（RGB888 や YUV422 など）入力すれば、マイコンで推論が実行されます。便利！
 <br>esp-dl/examples, esp-dl/models 内を参考にしてコード少しいじると、他モデルが利用できます。
-<br>esp-ppq というツールで、自分で onnx モデルを *.espdl に量子化・変換することができるようです！うおおお！
+<br>
+<br>また、esp-ppq というツールで、自分で onnx モデルを *.espdl に量子化・変換することができるようです！うおおお！
 <br>（自分が試したときの、RGB888 変換などの関数利用例も一部コードに残しておきました）
 <br>
 <br>

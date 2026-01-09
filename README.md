@@ -92,7 +92,7 @@ https://github.com/espressif/esp-idf/tree/master/examples
 https://github.com/espressif/esp-bsp/tree/master/examples
 
 Core 2 や M5 Dial などなど、各種初期化がある程度簡単に設定済みのライブラリです。自分のこのリポジトリでも Core S3 用を利用してカメラピン設定などが省略できています。
-<br>
+<br>もしここにない XIAO ESP32S3 など他のボードで利用する場合も、カメラピンなど番号変えたりすることで利用できます。
 <br>
 
 

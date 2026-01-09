@@ -10,6 +10,13 @@
 
 
 
+https://github.com/user-attachments/assets/bc08ac50-c18f-451c-b7b9-f42a6844af3e
+
+
+
+
+
+
 # 環境
 
 <br>M5Stack Core S3 (カメラつき GC0308) 
